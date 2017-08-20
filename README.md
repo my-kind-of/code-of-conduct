@@ -4,7 +4,7 @@ All attendees, speakers, sponsors and volunteers at our events are required to a
 
 # Need Help?
 
-Contact our team at events@mykindof.tech :sparkling-heart:
+Contact our team at events@mykindof.tech :sparkling_heart:
 
 # The Quick Version
 

@@ -27,6 +27,8 @@ All staff will be happy to help participants contact venue security or local law
 We expect participants to follow these rules at all our event venues and event-related social activities.
 
 
-_Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & The Ada Initiative_
+_Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)_
+
 _[Please help by translating or improving](http://github.com/leftlogic/confcodeofconduct.com)_
+
 _This work is licensed under a Creative Commons Attribution 3.0 Unported License_

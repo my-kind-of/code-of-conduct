@@ -26,7 +26,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 All staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
-*We expect participants to follow these rules at all our event venues and event-related social activities.*
+**We expect participants to follow these rules at all our event venues and event-related social activities.**
 
 
 _Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)_

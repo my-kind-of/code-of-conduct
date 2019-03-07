@@ -1,16 +1,29 @@
 ## My Kind Of Tech Ltd - Code of Conduct
 
-All attendees, speakers, sponsors and volunteers at our events are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers, sponsors and volunteers at our events are required to agree with the following code of conduct. 
+
+Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 # Need Help?
 
-Contact our team at events@mykindof.tech :sparkling_heart:
+Contact our team at events@mykindof.tech or call us +442033899624 :sparkling_heart: 
 
 # The Quick Version
 
 Our events are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. 
 
-We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for our venues, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from events without a refund at the discretion of the organisers.
+We do not tolerate harassment of conference participants in any form.
+
+Sexual language and imagery is not appropriate for our venues, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from events without a refund at the discretion of the organisers.
+
+# What we won't respond to
+Our community priotizes marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:
+
+* Reverse-isms, including reverse racism, reverse sexism, and cisphobia.
+* Reasonable communication of boundaries, such as "leave me alone", "go away", or "I'm not discussing this with you"
+* Refusal to explain or debate social justice concepts
+* Communicating in a 'tone' you don't find congenial
+* Criticising racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 # The Less Quick Version
 
@@ -26,7 +39,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 All staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
-**We expect participants to follow these rules at all our event venues and event-related social activities.**
+**We expect all participants to follow these rules at all our event venues and event-related social activities.**
 
 
 _Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)_

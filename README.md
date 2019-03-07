@@ -6,7 +6,7 @@ Organisers will enforce this code throughout the event. We expect cooperation fr
 
 # Need Help?
 
-Contact our team at events@mykindof.tech or call us +442033899624 :sparkling_heart: 
+Contact our team at events@mykindof.tech or call us +44 (0)20 3389 9624 :sparkling_heart: 
 
 # The Quick Version
 

@@ -17,13 +17,12 @@ We do not tolerate harassment of conference participants in any form.
 Sexual language and imagery is not appropriate for our venues, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from events without a refund at the discretion of the organisers.
 
 # What we won't respond to
-Our community priotizes marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:
+
+Our community priotizes marginalised people's safety over privileged people's comfort. We will not act on complaints regarding:
 
 * Reverse-isms, including reverse racism, reverse sexism, and cisphobia.
 * Reasonable communication of boundaries, such as "leave me alone", "go away", or "I'm not discussing this with you"
 * Refusal to explain or debate social justice concepts
-* Communicating in a 'tone' you don't find congenial
-* Criticising racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 # The Less Quick Version
 

@@ -10,7 +10,7 @@ Contact our team at events@mykindof.tech or call us +44 (0)20 3389 9624 :sparkli
 
 # The Quick Version
 
-Our events are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. 
+Our events are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. 
 
 We do not tolerate harassment of conference participants in any form.
 
